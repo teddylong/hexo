@@ -65,6 +65,13 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+social:
+  GitHub: https://github.com/teddylong
+  Twitter: https://twitter.com/duoduopapa
+  Weibo: http://weibo.com/teddylong
+
+baidu_analytics: 7fe95f89fa45c1aad99ee6263c6422cc
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
