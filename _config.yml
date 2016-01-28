@@ -83,3 +83,9 @@ deploy:
   type: git
   repo: git@github.com:teddylong/teddylong.github.io.git
   branch: master
+
+leancloud_visitors:
+  enable: true
+  app_id: sCYKjIlluTPqPdYuaboGUoL1-gzGzoHsz
+  app_key: vgpK0J0BbBc1Ko68mhDqfQUR
+
